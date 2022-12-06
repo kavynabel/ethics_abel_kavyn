@@ -26,8 +26,6 @@ In How to spot red flags in a data science job opportunity article I learned to 
 
 Big data and their epistemological challenge discusses the obscurity of "big data". "Big data" does not only mean large sets of data and using tools that can handle these large datasets, but about the impact that our analyses from these large datasets can have. I need to think more about the implications of what I say with my findings from data.
 
-***An interesting article was South Africa's private surveillence machine is fueling a digital apartheid. The south african serveillance would 
-
 From an ethical code can't be about ethics I learned that a data scientist should help automate processes that can be automated and give more time the the decision makers to worry about making those decisions.
 
 In reading Ethical codes vs ethical code I got out of it that as a data scientist I need to find the unbiased truth, and not tailor it to my client or boss for their convincing purposes.
