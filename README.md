@@ -16,6 +16,14 @@ I will seek to know the implications of the data. How people I present to will r
 
 I will not hide or disguise certain findings with misleading charts.
 
+I will not be afraid to ask questions of my client, coworkers, of the data, and data source. More questions bring greater clarity.
+
+Additionally, from the semester, as far as consulting work, I have learned that it is important to map out your project. Make sure that everyone on your team is on the same page and that will help things to move more smoothly. I was very proactive and dove right in as soon as I could and I may have gone into some rabbit holes at the beginning that didn't ultimately comtribute to the project, it would have been better to have more team organization to guide us in the early stages.
+It was interesting to see how the project scope changed over the course of the semester. It is important to be adaptable, but ultimately get what the client needs done. Make sure your hours of work go to something useful and meaningful.
+Finally, I think it is really helpful to ask lots of questions, to the client, to your team. It helped as I asked questions and learn what all the ata columns actually mean, where they are coming from, how I can use them. That helped me to understand in a more broad perspective the entire project.
+
+Below you will see some things that stood out and that I learned this semester from the readings.
+
 ## Reading Discussion
 
 _Provide a short summary of the primary principle of each reading we completed in class. This summary should be in your style and what you gleaned._
